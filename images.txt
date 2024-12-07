@@ -1,1 +1,2 @@
 apache/apisix:3.11.0-debian
+ultralytics/ultralytics
